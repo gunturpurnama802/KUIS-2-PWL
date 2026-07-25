@@ -1,6 +1,6 @@
 # Tugas Kuis 2 PWL
 
-Project frontend sederhana menggunakan Next.js untuk tugas Kuis 2 Pemrograman Web Lanjut.
+Project pwl lab pakai Next.js untuk tugas Kuis 2 Pemrograman Web Lanjut.
 
 ## Cara Menjalankan
 
